@@ -4,7 +4,7 @@ Let's build stuff online together. Jump into a zoom room and watch, ask, or cont
 
 ### Genesis Code-athon
 - February 1, 2025 9am - 12pm EST
-- Calendar Event: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2xhczBzb2hpOWd0cG1xOW51NG42Njd2djYgd2lsbEBsaWdodG5pbmdib3VudGllcy5jb20&tmsrc=will%40lightningbounties.com
+- ~~Calendar Event:~~ Calendar is janky, check back here for teleconferencing link.
 - Who? [Will and Pasha](https://www.lightningbounties.com/team) will be kicking it off.
 - We'll also be publishing the recording on our [Youtube Channel](https://www.youtube.com/@LightningBounties)
 
