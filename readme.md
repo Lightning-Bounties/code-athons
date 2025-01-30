@@ -4,7 +4,8 @@ Let's build stuff online together. Jump into a zoom room and watch, ask, or cont
 
 ## 🚀 Genesis Code-athon
 **📅 When**: February 1, 2025 9am - 12pm EST  
-**🔗 Where**: ~~Calendar Event~~ Check back here for teleconferencing link  
+**🔗 Where**: Google Calendar: https://calendar.app.google/K3kRr8USqf1iRLdK8
+**🎥 VideoCall**: https://us06web.zoom.us/j/87121248481?pwd=Uii4czW4Jc3rxT7aelyPDNbipwtF3N.1
 **👥 Hosts**: [Will and Pasha](https://www.lightningbounties.com/team) will kick things off  
 **🎥 Recordings**: Published on [YouTube Channel](https://www.youtube.com/@LightningBounties)
 
@@ -12,7 +13,6 @@ Let's build stuff online together. Jump into a zoom room and watch, ask, or cont
 #### 🛠️ Tech Setup
 - **Main Repo**: [Lightning-Bounties/lb-next](https://github.com/Lightning-Bounties/lb-next)
 - **Backend Setup**: [Connection instructions](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-opensource-frontend-lb-next)  
-  *(Requires signup for JWT authentication)*
 
 #### 📌 Current Focus Areas
 **Roadmap**: [View Project Board](https://github.com/orgs/Lightning-Bounties/projects/2/views/1)  
@@ -22,7 +22,7 @@ Let's build stuff online together. Jump into a zoom room and watch, ask, or cont
 
 #### 🌟 Collaborative Coding Approach
 - **AI-Powered Development**: Leveraging [Aider](https://aider.chat) + DeepSeek-R1 for accelerated progress  
-- **Community Discussion**: [HN Thread](https://news.ycombinator.com/item?id=42852866) about our approach  
+- **Community Discussion**: [HN Thread](https://news.ycombinator.com/item?id=42852866) about this approach  
 - **New to AI tools?** No problem! Most developers aren't familiar yet - we'll help you get started
 
 #### ⚙️ Aider + LLM Setup
