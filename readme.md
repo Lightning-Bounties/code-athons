@@ -2,7 +2,7 @@
 
 Let's build stuff online together. Jump into a zoom room and watch, ask, or contribute.
 
-## 🚀 Genesis Code-athon
+## 🚀 Week1 - Coding with DeepSeek
 **📅 When**: February 1, 2025 9am - 12pm EST  
 **🔗 Where**: Google Calendar: https://calendar.app.google/K3kRr8USqf1iRLdK8  
 **🎥 VideoCall**: https://us06web.zoom.us/j/87121248481?pwd=Uii4czW4Jc3rxT7aelyPDNbipwtF3N.1  
