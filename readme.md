@@ -1,31 +1,31 @@
-# Lightning Bounties Public Code-athons
+# ⚡ Lightning Bounties Public Code-athons
 
 Let's build stuff online together. Jump into a zoom room and watch, ask, or contribute.
 
-### Genesis Code-athon
-- February 1, 2025 9am - 12pm EST
-- ~~Calendar Event:~~ Calendar is janky, check back here for teleconferencing link.
-- Who? [Will and Pasha](https://www.lightningbounties.com/team) will be kicking it off.
-- We'll also be publishing the recording on our [Youtube Channel](https://www.youtube.com/@LightningBounties)
+## 🚀 Genesis Code-athon
+**📅 When**: February 1, 2025 9am - 12pm EST  
+**🔗 Where**: ~~Calendar Event~~ Check back here for teleconferencing link  
+**👥 Hosts**: [Will and Pasha](https://www.lightningbounties.com/team) will kick things off  
+**🎥 Recordings**: Published on [YouTube Channel](https://www.youtube.com/@LightningBounties)
 
 
-#### Tech Setup
-- Working on this repo: https://github.com/Lightning-Bounties/lb-next
-- This is a frontend repo and you can connect to a backend with instructions [here](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-opensource-frontend-lb-next)
-  - you'll need to sign up in order to get a valid JWT
+#### 🛠️ Tech Setup
+- **Main Repo**: [Lightning-Bounties/lb-next](https://github.com/Lightning-Bounties/lb-next)
+- **Backend Setup**: [Connection instructions](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-opensource-frontend-lb-next)  
+  *(Requires signup for JWT authentication)*
 
-#### Issues / Features
-- Working on issues on this roadmap: https://github.com/orgs/Lightning-Bounties/projects/2/views/1
-- Probably on these issues specifically:
-  - [Feed Filters (#10)](https://github.com/Lightning-Bounties/progress-tracker/issues/10)
-  - [Twitter Detail Card (#9)](https://github.com/Lightning-Bounties/progress-tracker/issues/9)
+#### 📌 Current Focus Areas
+**Roadmap**: [View Project Board](https://github.com/orgs/Lightning-Bounties/projects/2/views/1)  
+**Priority Issues**:
+- [🔧 Feed Filters (#10)](https://github.com/Lightning-Bounties/progress-tracker/issues/10)
+- [🔧 Twitter Detail Card (#9)](https://github.com/Lightning-Bounties/progress-tracker/issues/9)
 
-#### General 
-- We'll be looking at the combination of using Aider and DeepSeek-R1 to make accelerated progress on our opensource codebase. 
-- If you're interested in what other people are saying check out this thread https://news.ycombinator.com/item?id=42852866. 
-- If you don't know how to use these...no problem! We barely know (and 99% of other devs don't yet) we'll get you setup, see below if you want to try to setup yourself.
+#### 🌟 Collaborative Coding Approach
+- **AI-Powered Development**: Leveraging [Aider](https://aider.chat) + DeepSeek-R1 for accelerated progress  
+- **Community Discussion**: [HN Thread](https://news.ycombinator.com/item?id=42852866) about our approach  
+- **New to AI tools?** No problem! Most developers aren't familiar yet - we'll help you get started
 
-#### Setting up Aider + LLM-API
-- Install Aider following this guide: https://aider.chat/docs/install.html
-- Add a key to your existing LLM provider as explained in the guide.
-- If you don't have an existing one I'll be happy to provide you one with limited credits via OpenRouter
+#### ⚙️ Aider + LLM Setup
+1. **Install Aider**: Follow the [installation guide](https://aider.chat/docs/install.html)
+2. **API Key**: Configure your LLM provider per the instructions  
+   *(💡 Need a key? Ask us for limited OpenRouter credits!)*
