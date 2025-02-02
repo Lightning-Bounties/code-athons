@@ -8,6 +8,7 @@ Let's build stuff online together. Jump into a zoom room and watch, ask, or cont
 **🎥 VideoCall**: https://us06web.zoom.us/j/87121248481?pwd=Uii4czW4Jc3rxT7aelyPDNbipwtF3N.1  
 **👥 Hosts**: [Will and Pasha](https://www.lightningbounties.com/team) will kick things off  
 **🎥 Recordings**: Published on [YouTube Channel](https://www.youtube.com/@LightningBounties)
+  - [recording for session #1](https://youtu.be/uX_rcwRxN38)
 
 
 #### 🛠️ Tech Setup
